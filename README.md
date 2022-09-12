@@ -12,3 +12,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/momomomo111/contributions.svg" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momomomo111&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
